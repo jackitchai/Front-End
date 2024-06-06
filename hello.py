@@ -1,1 +1,2 @@
 print("สวัสดีครับ")
+print("haha")
