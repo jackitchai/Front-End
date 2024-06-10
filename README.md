@@ -1,6 +1,6 @@
 # HealJAI Application
 
-This Web application developed by our team during the SCB10X LLM (Model) Typhoon Hackathon. HealJAI leverages advanced language models to provide personalized emotional support and companionship through 3D animated chatbots. 
+Developed by our team (5Idiots) during the SCB10X LLM (Model) Typhoon Hackathon.
 
 ## Table of Contents
 
